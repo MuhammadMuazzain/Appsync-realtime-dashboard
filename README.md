@@ -1,7 +1,5 @@
 # Realtime IoT Dashboard with AWS AppSync and Amazon Location Service
 
-**Update!!!** this project has been updated to use [**Amplify Gen2**](https://docs.amplify.aws/react/) to deploy the backend services in AWS.
-
 This application demonstrates a web application dashboard receiving real-time updates from a series of IoT sensors. It depicts a fictitious set of pH sensors deployed around the San Francisco Bay. The solution is built with React, AWS AppSync, Amazon Location Service, AWS Amplify, and AWS IoT technologies.
 
 ![Image description](images/map.jpg)
@@ -37,7 +35,7 @@ The following software was used in the development of this application. While it
 **Clone this code repository**
 
 ```
-git clone https://github.com/aws-samples/aws-appsync-iot-core-realtime-dashboard.git
+git clone https://github.com/MuhammadMuazzain/Appsync-realtime-dashboard.git
 ```
 
 **Switch to the project's web folder**

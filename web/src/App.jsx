@@ -6,6 +6,7 @@ import MapPage from "./MapPage";
 
 import awsExports from "../amplify_outputs.json";
 
+// Amplify.configure(awsExports);
 Amplify.configure(awsExports);
 
 const App = () => {
